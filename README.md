@@ -35,16 +35,6 @@ In this task, I focused on designing and implementing a user-friendly interface 
 
 ---
 
-## 📸 Screenshots
-
-### Welcome Screen
-![Welcome](screenshots/welcome.png)
-
-### Input Screen
-![Input](screenshots/input.png)
-
-### Result Screen
-![Result](screenshots/result.png)
 
 ---
 
